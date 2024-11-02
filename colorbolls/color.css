@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(242, 233, 221);
+    background-color: rgb(218, 167, 231);
 }
 h1{
     text-align: center;
-    background:linear-gradient(90deg,rgb(255, 116, 116),rgb(110, 254, 110),rgb(119, 119, 255));
-    border-radius: 75px;
+    
+    
 
 }
 
@@ -71,9 +71,6 @@ h1{
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
-    background-color:rgb(255, 255, 255);
-    border-top-left-radius: 50px;
-    border-bottom-right-radius: 25px;
-    border: 3px double black;
+    
     
 }
