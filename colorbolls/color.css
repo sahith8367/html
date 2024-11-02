@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(242, 233, 221);
+}
+h1{
+    text-align: center;
+    background:linear-gradient(90deg,rgb(255, 116, 116),rgb(110, 254, 110),rgb(119, 119, 255));
+    border-radius: 75px;
+
+}
+
+.brown{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(360deg,rgb(19, 2, 2),rgb(104, 0, 0),rgb(192, 6, 6));
+    box-shadow: 8px 8px 20px 0 black;
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(360deg,rgb(57, 1, 1),rgb(159, 2, 2),rgb(243, 65, 65));
+    box-shadow: 8px 8px 20px 0 black;
+}
+.orange{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(360deg,rgb(92, 2, 2),rgb(255, 0, 0),rgb(252, 122, 122));
+    box-shadow: 8px 8px 20px 0 black;
+}
+.color1{
+    display: inline-block;
+    border-radius: 50px;  
+    margin:20px;
+}
+.darkblue{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(360deg,rgb(26, 1, 70),rgb(26, 1, 111),rgb(58, 2, 211));
+    box-shadow: 8px 8px 20px 0 black;
+}
+.blue{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(360deg,rgb(26, 1, 70),rgb(19, 2, 147),rgb(79, 15, 255));
+    box-shadow: 8px 8px 20px 0 black;
+}
+.skyblue{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(360deg,rgb(2, 18, 136),rgb(0, 93, 207),rgb(58, 67, 244));
+    box-shadow: 8px 8px 20px 0 black;
+}
+.darkgreen{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(360deg,rgb(1, 68, 30), rgb(0, 119, 22),rgb(0, 208, 56));
+    box-shadow: 8px 8px 20px 0 black;
+}
+.green{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(360deg,rgb(1, 90, 44),rgb(0, 169, 23),rgb(3, 221, 57));
+    box-shadow: 8px 8px 20px 0 black;
+}
+.lightgreen{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(360deg,rgb(87, 121, 1),rgb(1, 200, 54),rgb(0, 255, 85));
+    box-shadow: 8px 8px 20px 0 black;
+}
+.outer{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(255, 255, 255);
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 25px;
+    border: 3px double black;
+    
+}
